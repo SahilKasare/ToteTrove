@@ -1,3 +1,3 @@
 ﻿# Welcome to ToteTrove 
-## Scratch is a bag purchase e-commorce website
+## ToteTrove is a bag purchase e-commorce website
 
